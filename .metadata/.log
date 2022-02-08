@@ -5844,3 +5844,15 @@ Caused by: java.lang.NullPointerException: Cannot invoke "java.lang.reflect.Meth
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 16:09:08.130
 !MESSAGE executing callback sts4.classpath.WjuvHHXL SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 17:06:43.652
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.WjuvHHXL
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 17:06:43.653
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.WjuvHHXL
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 17:06:43.654
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 17:06:43.654
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.WjuvHHXL => OK

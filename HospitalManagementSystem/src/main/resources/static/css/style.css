@@ -1,6 +1,14 @@
 body{
-	background-color: blue;
+	background-color: cyan;
 }
 .content{
-	background-color: cyan;
+	
+	margin-left: 20%;
+}
+.sidebar{
+	background-color: white;
+	width: 18%;
+	height: 100%;
+	position: fixed;
+	
 }
