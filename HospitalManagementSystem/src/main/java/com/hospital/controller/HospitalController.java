@@ -16,5 +16,10 @@ public class HospitalController {
 	public String dashBoard() {
 		return"dashboard";
 	}
+	
+	@GetMapping("/page2")
+	public String dashBoard2() {
+		return"page2";
+	}
 
 }
